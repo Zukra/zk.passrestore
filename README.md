@@ -26,3 +26,6 @@ $MESS['/bitrix/modules/main/lang/ru/classes/general/user.php']["ACCOUNT_INFO_SEN
 Установка в каталог сайта ./bitrix/ аналогична, как и в ./local/
 
 Через `Администрирование->Marketplace` модуль устанавливается/удалается
+
+
+При удалении модуля не забудьте убрать строки из `./local/php_interface/user_lang/ru/lang.php`
